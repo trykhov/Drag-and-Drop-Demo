@@ -1,0 +1,24 @@
+.box-space-container {
+    border-bottom: 1px solid black;
+    display: flex;
+    width: 70%;
+}
+
+.box-space {
+    border-right: 1px solid black;
+    width: 20%;
+}
+
+.reward-place-container {
+    display: flex;
+    width: 100%;
+}
+
+div[draggable=true] {
+    background-color: cornsilk;
+    border-radius: 4px;
+    cursor: pointer;
+    margin: 0 auto;
+    padding: 5% 0;
+    width: 30%;
+}

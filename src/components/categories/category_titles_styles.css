@@ -1,0 +1,13 @@
+#title-container {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    display: flex;
+    margin-top: 2%;
+}
+
+.title {
+    border-right: 1px solid black;
+    font-weight: 600;
+    padding: 2% 0;
+    width: 20%;
+}

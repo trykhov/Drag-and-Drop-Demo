@@ -1,0 +1,17 @@
+.filled {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}
+
+.reward-col {
+    border: 1px solid black;
+    font-weight: 600;
+    /* padding: 2% 0; */
+    width: 30%;
+}
+
+.reward-row {
+    display: flex;
+}

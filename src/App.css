@@ -1,0 +1,13 @@
+#board {
+    text-align: center;
+
+}
+
+#categories {
+    width: 70%;
+}
+
+#rewards {
+    border-right: 1px solid black;
+    width: 30%;
+}
