@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Drag-and-Drop-Demo/static/css/main.ed9cf334.chunk.css",
+    "main.js": "/Drag-and-Drop-Demo/static/js/main.a83b9a35.chunk.js",
+    "main.js.map": "/Drag-and-Drop-Demo/static/js/main.a83b9a35.chunk.js.map",
+    "runtime-main.js": "/Drag-and-Drop-Demo/static/js/runtime-main.b1b7597e.js",
+    "runtime-main.js.map": "/Drag-and-Drop-Demo/static/js/runtime-main.b1b7597e.js.map",
+    "static/js/2.39786e27.chunk.js": "/Drag-and-Drop-Demo/static/js/2.39786e27.chunk.js",
+    "static/js/2.39786e27.chunk.js.map": "/Drag-and-Drop-Demo/static/js/2.39786e27.chunk.js.map",
+    "index.html": "/Drag-and-Drop-Demo/index.html",
+    "precache-manifest.1552c95bfc0fc29e3fdfd9df815209a3.js": "/Drag-and-Drop-Demo/precache-manifest.1552c95bfc0fc29e3fdfd9df815209a3.js",
+    "service-worker.js": "/Drag-and-Drop-Demo/service-worker.js",
+    "static/css/main.ed9cf334.chunk.css.map": "/Drag-and-Drop-Demo/static/css/main.ed9cf334.chunk.css.map",
+    "static/js/2.39786e27.chunk.js.LICENSE.txt": "/Drag-and-Drop-Demo/static/js/2.39786e27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1b7597e.js",
+    "static/js/2.39786e27.chunk.js",
+    "static/css/main.ed9cf334.chunk.css",
+    "static/js/main.a83b9a35.chunk.js"
+  ]
+}
